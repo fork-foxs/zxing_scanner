@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camera: ^0.11.1
+  camera: ^0.11.2
   zxing_lib: ^1.0.0
 
 dev_dependencies:
